@@ -1,6 +1,9 @@
 # HEART DISEASE DIAGNOSTIC ANALYSIS
 Heart disease remains a critical global health challenge, responsible for a significant portion of morbidity and mortality worldwide. Early diagnosis and timely intervention are crucial for effectively managing heart conditions. This data science project, "Heart Disease Diagnostic Predictor," aims to leverage the power of data and machine learning to develop a predictive model that can assist healthcare professionals in diagnosing heart diseases with higher accuracy.  We've harnessed the power of data analysis and predictive modeling to enhance healthcare outcomes and save lives.
 
+# Machine Learning Algorithm used:
+Logistic Regression
+
 # Tools/Technologies used:
 1. Jupyter Notebook
 2. Python language
