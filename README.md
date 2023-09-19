@@ -33,7 +33,7 @@ Logistic Regression
 8. Model Training
 9. Model Evaluation
 10. Exporting the model
-11. Streamlit view
+11. Streamlit deployment
 
 # Details of the data:
 The dataset contains the following info:
